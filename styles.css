@@ -1,0 +1,19 @@
+h1 {
+text-align: center;
+}
+
+div{
+    margin: auto;
+}
+
+#wrapper{
+    border: 1px solid black; 
+    width: 600px; 
+    height: 600px;
+}
+
+.block{
+    width: 60px; 
+    height: 60px; 
+    float: left;
+}
